@@ -31,7 +31,7 @@ use_spacer right
 TEXT
 ${font Arial:size=20}${color Tan1}LINUX${color Green}MINT
 
-${voffset -90}
+${voffset 900}
 ${color DimGray}
 ${font}
 ${font Arial:bold:size=10}${color Tan1}SYSTEM ${color DarkSlateGray} ${hr 2}
